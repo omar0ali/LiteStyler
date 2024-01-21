@@ -8,7 +8,7 @@
             width: 200px;
         }
 
-        input {
+        input[type=number] {
             width: 65%;
             margin-bottom: 10px;
         }
@@ -22,7 +22,12 @@
     <button id="applyButton">Apply</button>
     <button id="default">Default</button>
     <button id="level1">300px</button>
-    <button id="level2">500px</button>
+    <button id="level2">500px</button><br>
+    <hr>
+    <input type="checkbox" id="themeInput" name="themeInput" value="DarkTheme">
+    <label for="themeInput">Dark Theme</label><br>
+    <input type="checkbox" id="invertInput" name="invertInput" value="invert">
+    <label for="invertInput">Invert Color of the page</label>
   
     <script src="popup.js"></script>
 </body>

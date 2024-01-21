@@ -1,10 +1,11 @@
-# Margin Editor Chrome Extension
+# LiteStyler Chrome Extension
 
 ## Overview
 
-The Margin Editor Chrome Extension allows users to customize the margins of any website they visit. Users can set margin values for different websites.
+The LiteStyler Chrome Extension enables users to customize the margins of any website they visit. Users can set margin values for different websites and enable a dark theme for any website.
 
 >**Note**: After adjusting the margin, the changes will not be saved upon refreshing the page. Will add this as a feature in a later update. It will require storage permission.
+
 ## Features
 
 - **Custom Margin Settings:** Set margin values for each website.
@@ -22,6 +23,11 @@ The Margin Editor Chrome Extension allows users to customize the margins of any 
    - Click on the extension icon in the Chrome toolbar.
    - Enter the desired margin value, or choose a pre-set value, will adjust automatically.
    - Click "Apply" to set the margins for the current website.
+
+3. **Adjust Page Colors:**
+   - Click on the extension icon in the Chrome toolbar.
+   - Enable the 'Dark Theme' checkbox at the bottom.
+   - Additionally, you can invert the colors of the entire page.
 
 ## Permissions
 
