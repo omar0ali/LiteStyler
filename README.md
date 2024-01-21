@@ -10,7 +10,7 @@ The LiteStyler Chrome Extension enables users to customize the margins of any we
 
 - **Custom Margin Settings:** Set margin values for any website.
 - **Dark Theme:** Dark theme can be enabled and disabled for any website.
-- **Easy to Use:** Simple user interface with input fields to easily adjust margin values.
+- **Easy to Use:** Simple user interface with input fields to easily adjust margin values.\
 ![Extension](assets/screenshot1.png)
 ## Getting Started
 
