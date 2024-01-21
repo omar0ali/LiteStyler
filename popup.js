@@ -4,13 +4,18 @@ document.addEventListener("DOMContentLoaded", function () {
 		.addEventListener("click", function () {
 			setMargins();
 		});
+
+	document.getElementById("default").addEventListener("click", function () {
+		document.getElementById("marginInput").value = 0;
+        setMargins(0);
+	});
 	document.getElementById("level1").addEventListener("click", function () {
-        document.getElementById("marginInput").value = 300
+		document.getElementById("marginInput").value = 300;
 		setMargins(300);
 	});
 
 	document.getElementById("level2").addEventListener("click", function () {
-        document.getElementById("marginInput").value = 500
+		document.getElementById("marginInput").value = 500;
 		setMargins(500);
 	});
 });

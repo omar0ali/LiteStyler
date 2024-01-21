@@ -4,6 +4,7 @@
 
 The Margin Editor Chrome Extension allows users to customize the margins of any website they visit. Users can set margin values for different websites.
 
+>**Note**: After adjusting the margin, the changes will not be saved upon refreshing the page. Will add this as a feature in a later update. It will require storage permission.
 ## Features
 
 - **Custom Margin Settings:** Set margin values for each website.
@@ -19,7 +20,7 @@ The Margin Editor Chrome Extension allows users to customize the margins of any 
 
 2. **Adjust Margins:**
    - Click on the extension icon in the Chrome toolbar.
-   - Enter the desired margin value, or choose a preset value, will adjust automatically.
+   - Enter the desired margin value, or choose a pre-set value, will adjust automatically.
    - Click "Apply" to set the margins for the current website.
 
 ## Permissions
